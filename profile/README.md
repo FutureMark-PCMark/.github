@@ -20,7 +20,7 @@ FutureMark PCMark offers a modular architecture that allows users to target spec
 ---
 
 ## Overview
-![system-performance-analysis-dashboard](https://www.guru3d.com/data/publish/174/aec4cbdc882ea2b8a28bf9e743e0c603eacdf2/pcmark10-result.jpg)
+![futuremark-pcmark-analysis-dashboard](https://scr3.golem.de/screenshots/1706/PCMark-10-Futuremark/thumb620/PCMark-10-07.png)
 
 ---
 
